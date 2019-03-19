@@ -1,0 +1,81 @@
+<?php
+/*
+ *  [ 会员管理操作 ]
+ *  Copyright © 2013~2017 QingMi All rights reserved.
+ *  Author: Lzsen <lzs.vip@qq.com>
+ */
+
+class ModuleMemberUser extends Module
+{
+
+    const TABLE = 'member_user';
+    
+    ## 性别类型
+    const SEXS = [
+        1=>'男',
+        2=>'女',
+        3=>'保密'
+    ];
+
+    // 获取会员列表
+    public function getList($limit, $search = [], $sort = [])
+    {
+        $table = DB_PREFIX . self::TABLE;
+        $where = ' 1=1 ';
+        // 搜索 会员卡/手机
+        if (isset($search['keyword'])) {
+            $where .= ' and ( `phone`="'.$search['keyword'].'" or `cardid`="'.$search['keyword'].'" ) ';
+        }
+        $order    = "id desc";
+        $datalist = $this->db->table($table)->where($where)->order($order)->limit($limit)->selectlist();
+        return [
+            'datacount' => $this->db->datacount,
+            'datalist'  => $datalist,
+        ];
+    }
+
+    public function getInfo($id){
+        $table = DB_PREFIX . self::TABLE;
+        if(is_numeric($id)){
+            $where = ' `id` = "'.$id.'" ';
+        }else{
+            $where = ' `wx_openid` = "'.$id.'" ';
+        }
+        $data = $this->db->table($table)->where($where)->find();
+        return $data?:false;
+    }
+    // isopenid
+    public function isopenid($openid){
+        $table = DB_PREFIX . self::TABLE;
+        $where = ' `wx_openid` = "'.$openid.'" ';
+        $status = $this->db->table($table)->where($where)->find();
+        return $status?true:false;
+    }
+
+    public function add($userinfo,$wxinfo=false){
+        if($this->isopenid($userinfo['OpenID'])){
+            return true;
+        }
+        print_r($userinfo);
+        die;
+        $table = DB_PREFIX . self::TABLE;
+        $bind = [
+            'wx_openid' => $userinfo['OpenID'],
+            'cardid' => $userinfo['CrmGuestId'],
+            'cardfaceid' => $userinfo['CrdFaceID'],
+            'phone' => $userinfo['Tel'],
+            'fullname' => $userinfo['MemberName'],
+            'createtime' => TIME
+        ];
+        if($wxinfo){
+            $bind['avatar'] = $wxinfo['headimgurl'];
+            $bind['nickname'] = $wxinfo['nickname'];
+            $bind['area'] = $wxinfo['country'].'-'.$wxinfo['province'].'-'.$wxinfo['city'];
+            $bind['sex'] = $wxinfo['sex'];
+            $bind['wxinfo'] = json_encode($wxinfo,JSON_UNESCAPED_UNICODE);
+        }
+        $status = $this->db->table($table)->bind($bind)->insert();
+        return true;
+    }
+
+}

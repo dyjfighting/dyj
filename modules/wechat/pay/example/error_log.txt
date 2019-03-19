@@ -1,0 +1,2 @@
+[12-Sep-2017 15:41:08 Asia/Shanghai] PHP Notice:  Undefined property: JsApiPay::$curl_timeout in /www/web/xrrjdyf_com/public_html/vendor/wechat/example/WxPay.JsApiPay.php on line 99
+[12-Sep-2017 15:41:08 Asia/Shanghai] PHP Fatal error:  Undefined class constant 'NOTIFY_URL' in /www/web/xrrjdyf_com/public_html/vendor/wechat/lib/WxPay.Api.php on line 48
