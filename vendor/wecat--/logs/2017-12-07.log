@@ -1,0 +1,8 @@
+[2017-12-07 09:06:10][debug] begin notify
+[2017-12-07 09:07:05][debug] begin notify
+[2017-12-07 09:07:05][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2017120709542","bank_type":"PSBC_DEBIT","cash_fee":"23800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"sx9eabsahcl6n29k8wzrd5iuh3p2iq7t","openid":"ozp1hvw7UV1d7JlqkGcLiPAu82zE","out_trade_no":"wx2017120709542147","result_code":"SUCCESS","return_code":"SUCCESS","sign":"2964373ABE3FC5A0C6A676DDED6B5DE6","time_end":"20171207090704","total_fee":"23800","trade_type":"JSAPI","transaction_id":"4200000027201712079594058667"}
+[2017-12-07 09:07:05][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2017120709542","bank_type":"PSBC_DEBIT","cash_fee":"23800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"2VSLUGyPItYidgGA","openid":"ozp1hvw7UV1d7JlqkGcLiPAu82zE","out_trade_no":"wx2017120709542147","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DB800F300E903B43B635518BBBE5DD87","time_end":"20171207090704","total_fee":"23800","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4200000027201712079594058667"}
+[2017-12-07 09:07:09][debug] begin notify
+[2017-12-07 09:12:32][debug] begin notify
+[2017-12-07 13:54:17][debug] begin notify
+[2017-12-07 14:08:58][debug] begin notify

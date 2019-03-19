@@ -1,0 +1,190 @@
+[2018-06-07 08:46:01][debug] begin notify
+[2018-06-07 08:46:12][debug] begin notify
+[2018-06-07 08:46:12][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018060772124767","bank_type":"CFT","cash_fee":"25800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"5yrnece14en2yhte1o0t4sd7ukkz6zmf","openid":"ozp1hv38DyPalIhET-1VtC4Obv-8","out_trade_no":"wx2018060772124","result_code":"SUCCESS","return_code":"SUCCESS","sign":"9AC7E862A03A722CAE6864A0977EC207","time_end":"20180607084610","total_fee":"25800","trade_type":"JSAPI","transaction_id":"4200000128201806071433106372"}
+[2018-06-07 08:46:12][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018060772124767","bank_type":"CFT","cash_fee":"25800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"YjJ11GvPksbA8VUA","openid":"ozp1hv38DyPalIhET-1VtC4Obv-8","out_trade_no":"wx2018060772124","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"5B240B97BDF7BD30430715D1F14156EC","time_end":"20180607084610","total_fee":"25800","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000128201806071433106372"}
+[2018-06-07 08:46:12][debug] begin notify
+[2018-06-07 08:47:01][debug] begin notify
+[2018-06-07 08:47:12][debug] begin notify
+[2018-06-07 09:24:10][debug] begin notify
+[2018-06-07 09:24:23][debug] begin notify
+[2018-06-07 09:24:23][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018060796210768","bank_type":"CFT","cash_fee":"46440","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"ivn8nfgleo1mm7si9acc12qi0k1o9m74","openid":"ozp1hv0ERJvYE_iKMqkfa8cRE7Ik","out_trade_no":"wx2018060796210","result_code":"SUCCESS","return_code":"SUCCESS","sign":"220443EE797B64640617CEA7E7D2CFC0","time_end":"20180607092422","total_fee":"46440","trade_type":"JSAPI","transaction_id":"4200000121201806078695195691"}
+[2018-06-07 09:24:23][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018060796210768","bank_type":"CFT","cash_fee":"46440","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"FLKxQ6QS7KPVQ690","openid":"ozp1hv0ERJvYE_iKMqkfa8cRE7Ik","out_trade_no":"wx2018060796210","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"783E9B9EF80EED81384712A7F01D6D51","time_end":"20180607092422","total_fee":"46440","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000121201806078695195691"}
+[2018-06-07 09:24:26][debug] begin notify
+[2018-06-07 09:25:10][debug] begin notify
+[2018-06-07 10:13:20][debug] begin notify
+[2018-06-07 10:13:37][debug] begin notify
+[2018-06-07 10:13:37][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018060753986769","bank_type":"CFT","cash_fee":"46440","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"qgyy45l14wxxysyncnl0kwou0kwadiff","openid":"ozp1hv0ERJvYE_iKMqkfa8cRE7Ik","out_trade_no":"wx2018060753986","result_code":"SUCCESS","return_code":"SUCCESS","sign":"5543EE2346C097FBB35B53A74497504D","time_end":"20180607101336","total_fee":"46440","trade_type":"JSAPI","transaction_id":"4200000126201806076368323449"}
+[2018-06-07 10:13:37][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018060753986769","bank_type":"CFT","cash_fee":"46440","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"9vWLv8imrpNWNaxO","openid":"ozp1hv0ERJvYE_iKMqkfa8cRE7Ik","out_trade_no":"wx2018060753986","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"45AC1306E845A70F626F627DEAAF320F","time_end":"20180607101336","total_fee":"46440","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000126201806076368323449"}
+[2018-06-07 10:13:39][debug] begin notify
+[2018-06-07 10:14:20][debug] begin notify
+[2018-06-07 11:23:05][debug] begin notify
+[2018-06-07 11:23:20][debug] begin notify
+[2018-06-07 11:23:20][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018060746785770","bank_type":"ICBC_DEBIT","cash_fee":"51600","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"134jrldjeeyraj9vgoyv3mkt2qjsai2q","openid":"ozp1hvwo2pPfFyGsHEwmO6N4soT0","out_trade_no":"wx2018060746785","result_code":"SUCCESS","return_code":"SUCCESS","sign":"927A90E1843B8BA7A90067BD34D9F22A","time_end":"20180607112320","total_fee":"51600","trade_type":"JSAPI","transaction_id":"4200000113201806074833939395"}
+[2018-06-07 11:23:20][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018060746785770","bank_type":"ICBC_DEBIT","cash_fee":"51600","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"UlGpA4pAL4RMYwF7","openid":"ozp1hvwo2pPfFyGsHEwmO6N4soT0","out_trade_no":"wx2018060746785","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"002B8DEDC37DCB3F36E31D762BB7193A","time_end":"20180607112320","total_fee":"51600","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000113201806074833939395"}
+[2018-06-07 11:23:22][debug] begin notify
+[2018-06-07 11:24:05][debug] begin notify
+[2018-06-07 13:47:32][debug] begin notify
+[2018-06-07 13:47:34][debug] begin notify
+[2018-06-07 13:47:34][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"YvNnFRot011CuiKM","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"67E9F7A476722B6726DB8F005D9D18A1","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:34][debug] begin notify
+[2018-06-07 13:47:35][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"conC6xB1xpUxYYD4","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"7A9160A7685FB295238F143AB2D19ECF","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:35][debug] begin notify
+[2018-06-07 13:47:36][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"CZF0HjDWdmL8HiwH","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"CD8DDA36B371849D86AAF752ADDF20D2","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:36][debug] begin notify
+[2018-06-07 13:47:37][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"9H7saX7FEtTnkdMv","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"0F97CB8F56839E1B399A60652852AEBD","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:37][debug] begin notify
+[2018-06-07 13:47:38][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"pYdhq83yjfYiU37k","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"7D3AA532A7B3D16750A3D16717F11787","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:38][debug] begin notify
+[2018-06-07 13:47:39][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"c15P2Qo0x5t3THDC","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"EFEE941AB22B8FD25135F299F0BD7729","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:39][debug] begin notify
+[2018-06-07 13:47:40][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Olj87PYLLadvyTnt","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"26B44737EB7B83736CF33C3D8E2E56AC","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:40][debug] begin notify
+[2018-06-07 13:47:41][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Bbj1kvqWtDZppm6s","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"86F21C850BF9775FE6CDACF1AEEB2976","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:41][debug] begin notify
+[2018-06-07 13:47:42][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"aatJZKqRzb8qHlAc","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"20F2BAFC7AE39E097DB05A5112BD67DE","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:42][debug] begin notify
+[2018-06-07 13:47:43][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"RAxz1hjx7RkylqOZ","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"A139FBA0034E0A58B9C86D9A5FBE06DF","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:44][debug] begin notify
+[2018-06-07 13:47:44][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"kWcHjpFPplxiaesQ","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"6C5A0591E5A743EBCD049D9F2DF063FF","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:44][debug] begin notify
+[2018-06-07 13:47:45][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Qygn0ESCWJ1BqGqy","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"09A7574E24437BE088335ADE001CCA1F","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:45][debug] begin notify
+[2018-06-07 13:47:46][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"D93j6ydiYyFj91zO","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"D92C069883A5A827A4B9B1DD17E0209B","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:46][debug] begin notify
+[2018-06-07 13:47:47][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"BtmAE5XGjj8OFsz0","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"337926BAC0BF9D22C5E7E0C50E9A6BE6","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:47:47][debug] begin notify
+[2018-06-07 13:47:48][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"i3fDgXWwXs7nvLkm","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"B2CDFF180A1A0A4BE08F28D5F3D004AA","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:32][debug] begin notify
+[2018-06-07 13:48:41][debug] begin notify
+[2018-06-07 13:48:41][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"LwWc41PvcpvDUWKI","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"2BA6597E49409BB4552E8E7286480693","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:42][debug] begin notify
+[2018-06-07 13:48:42][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"wYRxk6zynAQDavcq","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"4A4D7BAA84E81BEBDEB4482E78AF2113","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:43][debug] begin notify
+[2018-06-07 13:48:43][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Uy5E0d3qWxB5TphH","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"3CB72CA3914E2BE8E08CA29F4F7FFC2E","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:44][debug] begin notify
+[2018-06-07 13:48:44][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"c0lBQY9K6XCaUZZ9","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"961674B03EF5E34A83E93CF3415D3EC2","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:45][debug] begin notify
+[2018-06-07 13:48:45][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"8eSPGSNKqGcG6bUC","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"61843A06360261D1685A6121774B2B8A","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:46][debug] begin notify
+[2018-06-07 13:48:46][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"04YYV4J5bgju6fMR","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"194DF32C08E5A396109F22DE9D398B02","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:47][debug] begin notify
+[2018-06-07 13:48:47][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"UtgzHvvJdptZRJVb","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DAD2CBD134F2751D744CD8C7C349C3E6","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:48][debug] begin notify
+[2018-06-07 13:48:48][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"maL7frGglffQ4Z98","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"BD6D2616D5CF3A30509B6D855C8941DE","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:49][debug] begin notify
+[2018-06-07 13:48:49][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"xb2gXMwkBRT1exEm","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"F2F4F3496F48A30B7015C51E4C73C579","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:50][debug] begin notify
+[2018-06-07 13:48:50][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"nAiWegrlsaE9slCb","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"3F759109DFF8A91E7EEAFC45019B03ED","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:51][debug] begin notify
+[2018-06-07 13:48:51][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"gjX0CVysde2mIX2N","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DFFEA7F28D0B592FEC61E3EB313BEDB4","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:52][debug] begin notify
+[2018-06-07 13:48:52][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"V4oaLWbHkp3lzO2H","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"4695B8EE7C542CFB88D167090105CF7B","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:53][debug] begin notify
+[2018-06-07 13:48:53][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"p7aCD9sO7SnvwAqi","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"0EB2BE851A7E7A896B4D964525053EB0","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:48:54][debug] begin notify
+[2018-06-07 13:48:54][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"usUFnPU0v0OswDOG","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"18F1DDDD5B879481B3BB8F5ABEA6F7FA","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:21][debug] begin notify
+[2018-06-07 13:49:21][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"FOxGjunG8cbZryDp","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"B3169FDCCC46C151045271FCA4F3AC6B","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:25][debug] begin notify
+[2018-06-07 13:49:27][debug] begin notify
+[2018-06-07 13:49:27][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"HvhkQJmu4tFhVp0R","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"98251EA61DEC6B9CB132745E16FB8188","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:28][debug] begin notify
+[2018-06-07 13:49:28][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"CYjjfI3pl92cN8xj","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DD52C32A2644131B15203C4E097BF303","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:29][debug] begin notify
+[2018-06-07 13:49:29][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"mPM3dNZbdNKssUDU","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"20B28BDAD66B931E412A1DD8D7AA4371","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:30][debug] begin notify
+[2018-06-07 13:49:30][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"YYjIbpFf7BXW32YG","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"C6CDD3CC441EF6FD4E96F0DE42B1D6E5","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:31][debug] begin notify
+[2018-06-07 13:49:31][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"IEMYoIxUsRylagHt","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"5FEE72C6088AD709E84623EBA1849EB7","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:32][debug] begin notify
+[2018-06-07 13:49:32][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"h9xSwMmT1CpnaBRE","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"01EA23D18CA329351B70FB1CD394C99B","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:33][debug] begin notify
+[2018-06-07 13:49:33][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"ML3WQrep5djN8wZb","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"0FD229A05623F72C51042EBBDE59F685","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:34][debug] begin notify
+[2018-06-07 13:49:34][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Di00ZTiyqqqEt5nE","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"25BCC595C7A75D7CFD3711CC051E4033","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:35][debug] begin notify
+[2018-06-07 13:49:35][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"xO099NO1IJ0lcfdf","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"C7AD30115E661F9D1637CCB6ACBBA7D4","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:36][debug] begin notify
+[2018-06-07 13:49:36][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"cE3MT8SF2SKSbe2p","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"741D322531E0DD6CDA462A56DAC6C9D1","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:37][debug] begin notify
+[2018-06-07 13:49:37][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"xUfcvsR5rW8YlY6D","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"025158F095801D360CF1520400FB495C","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:38][debug] begin notify
+[2018-06-07 13:49:38][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"z9guqf0cA338ZD8a","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"A485CC822447C0745DF488F6A8787812","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:39][debug] begin notify
+[2018-06-07 13:49:39][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"9rmHh5ae3UpOcRHi","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"333F7C674495F80364A0D880E8AF6B36","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:40][debug] begin notify
+[2018-06-07 13:49:40][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Mc2yezseBSkQFDDC","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"9CC7BB69D728FDC5E19688E6407B3F89","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:41][debug] begin notify
+[2018-06-07 13:49:41][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Gbw1XTSGrLaxenCu","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"6A83985D679ED1388A27D2D11E120BB2","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:42][debug] begin notify
+[2018-06-07 13:49:42][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Kzd6HYlwNG4pFnb1","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"E0A2552C9FF3E1A472FC150B035190CC","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:43][debug] begin notify
+[2018-06-07 13:49:43][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"UAnwxJjsLRQA46QC","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"647B8DC11ACB160177049B921A5D684D","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:44][debug] begin notify
+[2018-06-07 13:49:44][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"XPQdcMEKubqOxZbb","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"6D3939D1CBD94BABE1F51B6D7498E7B7","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:45][debug] begin notify
+[2018-06-07 13:49:45][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"qcwpf7H7rFsT4kIc","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"C64A2B4B1716CAD8DF62B42750C2369C","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:46][debug] begin notify
+[2018-06-07 13:49:46][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"TWA2MnOtTWOo4LU3","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DCCEC94E07F3192E5E78A74B849FD66F","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:47][debug] begin notify
+[2018-06-07 13:49:47][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"TT1sk6GUpomaPs8R","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"D8B453A1472649117B473D787C89E9EB","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:48][debug] begin notify
+[2018-06-07 13:49:48][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"L56WR8jpCKDsosCj","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"861C2F2DB9DE45A19EEF360D27E7EE47","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:49][debug] begin notify
+[2018-06-07 13:49:49][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"ut2AEUyMxUgiELnq","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DDD97668F3F87EA34C909F973C16324E","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:50][debug] begin notify
+[2018-06-07 13:49:50][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"5tYKUOcURhylSMPV","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"4AD9E1C4EC34DCD5068D045F26AC13AC","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:51][debug] begin notify
+[2018-06-07 13:49:51][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"7OVoBJgaFRxtrGVl","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"EF3D6F0214FE7B7EA1E1CF17EEEC68BC","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:52][debug] begin notify
+[2018-06-07 13:49:52][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"6VDlyHhN1gsJARRV","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"9773569FF24F3A2090722E80AF6B4AF5","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:53][debug] begin notify
+[2018-06-07 13:49:53][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"eaBDERlXbJBghPpH","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"57CDCDB73AE38D7A7D7CB4FA28D61D81","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:54][debug] begin notify
+[2018-06-07 13:49:54][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"YoFJCIJVeD9anMAn","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"1CF6EEB51585CECEE6CD40E93A191396","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:55][debug] begin notify
+[2018-06-07 13:49:55][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"PgoXPMP0JhsBno4p","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"F96DD13BF4A2625749E6D924E6691DC3","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:56][debug] begin notify
+[2018-06-07 13:49:56][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"U8MGOnEYgICNRkfq","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"6C2BE957E2871021BEA2D13C97558CAA","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:57][debug] begin notify
+[2018-06-07 13:49:57][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"xiPwDDRWjMa46BTO","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"486AB83C8D45DF9C2A9965EE1FA914B5","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:58][debug] begin notify
+[2018-06-07 13:49:58][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"XtnwG2rDKU4QpH4J","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"0EF5BBF260D191E9D04CE92397BF3EC2","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:49:59][debug] begin notify
+[2018-06-07 13:49:59][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"QcFonyj9hoAf2IMt","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"8E2383E6BC39FC59A525786BCEA6096B","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:00][debug] begin notify
+[2018-06-07 13:50:00][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"Vfi1qzJiw1Jsbruh","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DB8A577BFFEA072084713A67335B6E68","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:01][debug] begin notify
+[2018-06-07 13:50:01][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"xV1JVcEm35Ysll4N","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"A74DDF7D860F1E517B3225B8D4C4057F","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:02][debug] begin notify
+[2018-06-07 13:50:02][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"C9PO0IBFfHc9ucAh","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"7EE105D19A98C0328B285A79967B4193","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:03][debug] begin notify
+[2018-06-07 13:50:03][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"6tk6XlJ3fKsdM26x","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"51633EE2BDF3EEDED9D88CFAD2737309","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:04][debug] begin notify
+[2018-06-07 13:50:04][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"za2EQmDrlijA36BA","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"514A72F8D260AB05A48DAD26FE962173","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:05][debug] begin notify
+[2018-06-07 13:50:05][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"BzlcmLT5zdHNnGjl","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"8A59F4E70F10352F13EB56367D12529E","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:06][debug] begin notify
+[2018-06-07 13:50:06][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"yXJuTa0uiDit7VAY","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"D1010ED9B145A5BD6BF586E1E9790DDD","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:07][debug] begin notify
+[2018-06-07 13:50:07][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"NDH4jat36Y1j22pc","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"F6F19F7668589F972D70826AA38336B7","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:08][debug] begin notify
+[2018-06-07 13:50:08][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"aT0XcktfgbPN5rCf","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"6EFBAB309835E3ECB8CA50DB2430A90F","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:09][debug] begin notify
+[2018-06-07 13:50:09][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"2dMZVtMMeMVjaB7c","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"3431585964F80229614CE538AA138274","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:10][debug] begin notify
+[2018-06-07 13:50:10][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","attach":"2018060799250771","mch_id":"1480073482","nonce_str":"sw9FGJ084RrmDc3h","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"42B576D788981EFF99785273D75342BA","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}
+[2018-06-07 13:50:11][debug] begin notify
+[2018-06-07 13:50:11][debug] begin notify
+[2018-06-07 13:50:11][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","attach":"2018060799250771","bank_type":"CFT","cash_fee":"39800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"pSLzlkKXKW2cRZUw","openid":"ozp1hv_3byl6jzVlvrjNzwgfFEcM","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"7F9973214D02260B23D2F952429AD9BB","time_end":"20180607135010","total_fee":"39800","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"NATIVE","transaction_id":"4200000136201806076398283102"}
+[2018-06-07 13:50:11][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018060799250771","bank_type":"CFT","cash_fee":"39800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"f48l3en1mwusjkls0hqgpiaodog4e5f7","openid":"ozp1hv_3byl6jzVlvrjNzwgfFEcM","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","sign":"89C6E1AA3667D9EEB93F2BA82B023A5B","time_end":"20180607135010","total_fee":"39800","trade_type":"NATIVE","transaction_id":"4200000136201806076398283102"}
+[2018-06-07 13:50:11][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018060799250771","bank_type":"CFT","cash_fee":"39800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"CVezFeO56HUII60W","openid":"ozp1hv_3byl6jzVlvrjNzwgfFEcM","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"7126FE2F7B8E6892593200B75DF693BF","time_end":"20180607135010","total_fee":"39800","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"NATIVE","transaction_id":"4200000136201806076398283102"}
+[2018-06-07 13:50:12][debug] begin notify
+[2018-06-07 13:50:12][debug] query_pc:{"appid":"wx9d6c163b0a7af56f","attach":"2018060799250771","bank_type":"CFT","cash_fee":"39800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"tV2xrXDuIjviBddm","openid":"ozp1hv_3byl6jzVlvrjNzwgfFEcM","out_trade_no":"pc2018060799250","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"62F61E2210E34C1D415D276A96D087C9","time_end":"20180607135010","total_fee":"39800","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"NATIVE","transaction_id":"4200000136201806076398283102"}
+[2018-06-07 13:50:13][debug] begin notify
+[2018-06-07 16:37:58][debug] begin notify
+[2018-06-07 16:38:15][debug] begin notify
+[2018-06-07 16:38:15][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018060786235772","bank_type":"CFT","cash_fee":"25800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"20zx0zrx68cao00e4m1qhu26hr6wqont","openid":"ozp1hv4K0tuh5YAb9KOVPEYEdgg0","out_trade_no":"wx2018060786235","result_code":"SUCCESS","return_code":"SUCCESS","sign":"081E9717A2CB4923F6482CF5E91D79DE","time_end":"20180607163814","total_fee":"25800","trade_type":"JSAPI","transaction_id":"4200000134201806074877397646"}
+[2018-06-07 16:38:15][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018060786235772","bank_type":"CFT","cash_fee":"25800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"PQzNJgkia7GBnuQU","openid":"ozp1hv4K0tuh5YAb9KOVPEYEdgg0","out_trade_no":"wx2018060786235","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"DEC419FA5903085D0BAC1FA5AC029A10","time_end":"20180607163814","total_fee":"25800","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000134201806074877397646"}
+[2018-06-07 16:38:17][debug] begin notify
+[2018-06-07 19:43:53][debug] begin notify

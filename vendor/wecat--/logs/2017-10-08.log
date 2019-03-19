@@ -1,0 +1,12 @@
+[2017-10-08 22:00:25][debug] begin notify
+[2017-10-08 22:00:41][debug] begin notify
+[2017-10-08 22:00:41][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2017100826674","bank_type":"ICBC_DEBIT","cash_fee":"15800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"4141zq9gkokzh8fjp4opyrnieuf1mz2d","openid":"ozp1hv72rWDwuxFCc4VwCqk1FeCg","out_trade_no":"wx201710082667459","result_code":"SUCCESS","return_code":"SUCCESS","sign":"FCEC6382FC6BD9BC76D57046CCF5B91E","time_end":"20171008220040","total_fee":"15800","trade_type":"JSAPI","transaction_id":"4200000022201710086918964941"}
+[2017-10-08 22:00:41][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2017100826674","bank_type":"ICBC_DEBIT","cash_fee":"15800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"oWVOJGAotZaKGNf6","openid":"ozp1hv72rWDwuxFCc4VwCqk1FeCg","out_trade_no":"wx201710082667459","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"893E36007E7C898119D4EF09C9163D43","time_end":"20171008220040","total_fee":"15800","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4200000022201710086918964941"}
+[2017-10-08 22:00:44][debug] begin notify
+[2017-10-08 22:58:36][debug] begin notify
+[2017-10-08 22:58:48][debug] begin notify
+[2017-10-08 22:58:57][debug] begin notify
+[2017-10-08 22:58:57][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"19","bank_type":"CFT","cash_fee":"10000","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"4vzqjllb3pgkdve0tn288bpbxdsyamw1","openid":"ozp1hv7QtE_o5n00xozCKYE3Q5a8","out_trade_no":"wx1960","result_code":"SUCCESS","return_code":"SUCCESS","sign":"D92A5C0CA3B85994CA6FE171E52FDE05","time_end":"20171008225857","total_fee":"10000","trade_type":"JSAPI","transaction_id":"4200000011201710086923506100"}
+[2017-10-08 22:58:57][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"19","bank_type":"CFT","cash_fee":"10000","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"Nsku2rhygrvl7gJL","openid":"ozp1hv7QtE_o5n00xozCKYE3Q5a8","out_trade_no":"wx1960","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"38F88D1D69155E6F06DA51D0083E88E9","time_end":"20171008225857","total_fee":"10000","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4200000011201710086923506100"}
+[2017-10-08 22:59:01][debug] begin notify
+[2017-10-08 23:03:35][debug] begin notify

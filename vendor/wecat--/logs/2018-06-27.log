@@ -1,0 +1,24 @@
+[2018-06-27 08:52:27][debug] begin notify
+[2018-06-27 08:53:27][debug] begin notify
+[2018-06-27 09:14:09][debug] begin notify
+[2018-06-27 09:14:22][debug] begin notify
+[2018-06-27 09:14:22][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018062753270829","bank_type":"CFT","cash_fee":"25800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"x8rege4qs7wvievouy69bokqaj4ei7ya","openid":"ozp1hv38DyPalIhET-1VtC4Obv-8","out_trade_no":"wx2018062753270","result_code":"SUCCESS","return_code":"SUCCESS","sign":"3C3A38D91CC967BADD98D3AD8CB88EBD","time_end":"20180627091421","total_fee":"25800","trade_type":"JSAPI","transaction_id":"4200000125201806276085483750"}
+[2018-06-27 09:14:22][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018062753270829","bank_type":"CFT","cash_fee":"25800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"Cm9jXms2GCShgqGb","openid":"ozp1hv38DyPalIhET-1VtC4Obv-8","out_trade_no":"wx2018062753270","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"768530C4D9D2D1CC7FE35518BC17F54A","time_end":"20180627091421","total_fee":"25800","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000125201806276085483750"}
+[2018-06-27 09:14:25][debug] begin notify
+[2018-06-27 09:15:09][debug] begin notify
+[2018-06-27 09:15:25][debug] begin notify
+[2018-06-27 21:58:16][debug] begin notify
+[2018-06-27 21:58:29][debug] begin notify
+[2018-06-27 21:58:29][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018062754961830","bank_type":"CFT","cash_fee":"31800","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"6d6v79yiiiyzlq8c7vq5eyfedjcvbw71","openid":"ozp1hvx9YfZbFJLQTYEPtN46nJHk","out_trade_no":"wx2018062754961","result_code":"SUCCESS","return_code":"SUCCESS","sign":"C5B32A16481E9B7230322DD22A40AD8B","time_end":"20180627215829","total_fee":"31800","trade_type":"JSAPI","transaction_id":"4200000135201806276930801638"}
+[2018-06-27 21:58:29][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018062754961830","bank_type":"CFT","cash_fee":"31800","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"ebH0TwRuDBvUm3Kx","openid":"ozp1hvx9YfZbFJLQTYEPtN46nJHk","out_trade_no":"wx2018062754961","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"9B4173FAEC495775A39A1BA9F838E89C","time_end":"20180627215829","total_fee":"31800","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000135201806276930801638"}
+[2018-06-27 21:58:35][debug] begin notify
+[2018-06-27 21:59:16][debug] begin notify
+[2018-06-27 21:59:35][debug] begin notify
+[2018-06-27 22:00:40][debug] begin notify
+[2018-06-27 22:00:55][debug] begin notify
+[2018-06-27 22:00:55][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018062759609827","bank_type":"CFT","cash_fee":"39040","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"7lhbaszt64zfvwku2j4qyu75wrddvdsk","openid":"ozp1hvxy9KSeLTTUL-kvQUL-igHA","out_trade_no":"wx2018062759609","result_code":"SUCCESS","return_code":"SUCCESS","sign":"4CADFA47D380519CB50D73B3E67D3655","time_end":"20180627220053","total_fee":"39040","trade_type":"JSAPI","transaction_id":"4200000113201806276245575837"}
+[2018-06-27 22:00:55][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018062759609827","bank_type":"CFT","cash_fee":"39040","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"y8lery7Scw2O0qLI","openid":"ozp1hvxy9KSeLTTUL-kvQUL-igHA","out_trade_no":"wx2018062759609","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"37332FC2E50752B5D1926FC471E7A02E","time_end":"20180627220053","total_fee":"39040","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000113201806276245575837"}
+[2018-06-27 22:00:56][debug] begin notify
+[2018-06-27 22:01:18][debug] begin notify
+[2018-06-27 22:01:41][debug] begin notify
+[2018-06-27 22:01:56][debug] begin notify

@@ -1,0 +1,7 @@
+[2018-05-26 21:26:21][debug] begin notify
+[2018-05-26 21:26:58][debug] begin notify
+[2018-05-26 21:26:58][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018052662639741","bank_type":"CFT","cash_fee":"32627","coupon_count":"1","coupon_fee":"13","coupon_fee_0":"13","coupon_id_0":"2000000032823744193","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"s4ithkdme6j9nhrva9ggylci8byy3gbh","openid":"ozp1hv3lKkuRwC6UC6E-m_ILXTv8","out_trade_no":"wx2018052662639","result_code":"SUCCESS","return_code":"SUCCESS","sign":"EAF4C49904F02E8D829F46FEBA55A9F6","time_end":"20180526212657","total_fee":"32640","trade_type":"JSAPI","transaction_id":"4200000118201805260789667612"}
+[2018-05-26 21:26:58][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018052662639741","bank_type":"CFT","cash_fee":"32627","coupon_count":"1","coupon_fee":"13","coupon_fee_0":"13","coupon_id_0":"2000000032823744193","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"HQAhC0qQkPozatHj","openid":"ozp1hv3lKkuRwC6UC6E-m_ILXTv8","out_trade_no":"wx2018052662639","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"B50D2FF2F7750D1B7888ED37FDB8218B","time_end":"20180526212658","total_fee":"32640","trade_state":"SUCCESS","trade_state_desc":"\u652f\u4ed8\u6210\u529f","trade_type":"JSAPI","transaction_id":"4200000118201805260789667612"}
+[2018-05-26 21:27:21][debug] begin notify
+[2018-05-26 21:27:22][debug] begin notify
+[2018-05-26 21:28:23][debug] begin notify

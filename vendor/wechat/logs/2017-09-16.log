@@ -1,0 +1,23 @@
+[2017-09-16 15:01:09][debug] begin notify
+[2017-09-16 15:01:22][debug] begin notify
+[2017-09-16 15:09:06][debug] begin notify
+[2017-09-16 15:11:25][debug] begin notify
+[2017-09-16 15:11:55][debug] begin notify
+[2017-09-16 15:21:00][debug] begin notify
+[2017-09-16 15:21:15][debug] begin notify
+[2017-09-16 15:23:46][debug] begin notify
+[2017-09-16 15:24:13][debug] begin notify
+[2017-09-16 15:24:32][debug] begin notify
+[2017-09-16 15:24:51][debug] begin notify
+[2017-09-16 15:25:49][debug] begin notify
+[2017-09-16 15:33:10][debug] begin notify
+[2017-09-16 15:34:09][debug] begin notify
+[2017-09-16 15:34:26][debug] begin notify
+[2017-09-16 15:34:26][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2017091625975","bank_type":"CFT","cash_fee":"11","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"ptqst88kiymps6cn2ys15zbboab2dqtv","openid":"ozp1hvxkcmiJOwT1MMhH5krEOxcU","out_trade_no":"wx20170916259757","result_code":"SUCCESS","return_code":"SUCCESS","sign":"28B0C7450FA1C359E00DF52EF1A283BF","time_end":"20170916153426","total_fee":"11","trade_type":"JSAPI","transaction_id":"4000272001201709162428004284"}
+[2017-09-16 15:34:27][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2017091625975","bank_type":"CFT","cash_fee":"11","fee_type":"CNY","is_subscribe":"Y","mch_id":"1480073482","nonce_str":"Z5nkKh8IT4mLXD2m","openid":"ozp1hvxkcmiJOwT1MMhH5krEOxcU","out_trade_no":"wx20170916259757","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"35F42955A6C35E6C16A1C0EA88EDEA37","time_end":"20170916153426","total_fee":"11","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4000272001201709162428004284"}
+[2017-09-16 15:35:15][debug] begin notify
+[2017-09-16 15:35:30][debug] begin notify
+[2017-09-16 15:35:41][debug] begin notify
+[2017-09-16 15:39:34][debug] begin notify
+[2017-09-16 16:00:01][debug] begin notify
+[2017-09-16 16:01:19][debug] query:{"appid":"wx9d6c163b0a7af56f","mch_id":"1480073482","nonce_str":"vLN7bn36VYVodKDE","out_trade_no":"pc201709165531710","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"66908EECD15EA9DB69223F9D33080E47","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}

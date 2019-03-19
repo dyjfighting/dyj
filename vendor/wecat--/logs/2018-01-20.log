@@ -1,0 +1,6 @@
+[2018-01-20 14:09:09][debug] begin notify
+[2018-01-20 14:09:29][debug] begin notify
+[2018-01-20 14:09:29][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018012024229449","bank_type":"CFT","cash_fee":"3800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"rr5mi2lu9xrw6nj23zldm4lnhkvtg823","openid":"ozp1hv3tM-xR1TKPdTppn8I3jp5w","out_trade_no":"wx2018012024229","result_code":"SUCCESS","return_code":"SUCCESS","sign":"C885BCF0C19B286CC079E5B08B6BB437","time_end":"20180120140929","total_fee":"3800","trade_type":"JSAPI","transaction_id":"4200000076201801207530618865"}
+[2018-01-20 14:09:29][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018012024229449","bank_type":"CFT","cash_fee":"3800","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"6sdpf2hGYm5E71ow","openid":"ozp1hv3tM-xR1TKPdTppn8I3jp5w","out_trade_no":"wx2018012024229","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"FF56DF9BDA4EEB26534CCB172BDC9595","time_end":"20180120140929","total_fee":"3800","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4200000076201801207530618865"}
+[2018-01-20 14:12:01][debug] begin notify
+[2018-01-20 14:13:01][debug] begin notify

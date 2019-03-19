@@ -1,0 +1,14 @@
+[2018-01-04 08:44:13][debug] begin notify
+[2018-01-04 08:44:31][debug] begin notify
+[2018-01-04 08:44:31][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018010463064365","bank_type":"ICBC_DEBIT","cash_fee":"46440","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"5voffro56d0ronudldyytsm8388xk8c7","openid":"ozp1hv-1_hC3H3XLjVShAt63_1oA","out_trade_no":"wx2018010463064","result_code":"SUCCESS","return_code":"SUCCESS","sign":"D4B878250D2B2260DB238327F4CA0366","time_end":"20180104084430","total_fee":"46440","trade_type":"JSAPI","transaction_id":"4200000025201801047778234767"}
+[2018-01-04 08:44:31][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018010463064365","bank_type":"ICBC_DEBIT","cash_fee":"46440","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"YPfKhm824vkCKHeR","openid":"ozp1hv-1_hC3H3XLjVShAt63_1oA","out_trade_no":"wx2018010463064","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"352995B2F8575082A880A0F295A818AF","time_end":"20180104084430","total_fee":"46440","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4200000025201801047778234767"}
+[2018-01-04 08:44:33][debug] begin notify
+[2018-01-04 08:45:14][debug] begin notify
+[2018-01-04 11:32:33][debug] begin notify
+[2018-01-04 11:32:45][debug] begin notify
+[2018-01-04 11:32:45][debug] call back:{"appid":"wx9d6c163b0a7af56f","attach":"2018010412941368","bank_type":"CCB_DEBIT","cash_fee":"43320","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"shqjnf7pooamqjmr6a0gpewx2p3p8he2","openid":"ozp1hv5JuDaKJBSzHQHtJrPH6Xh8","out_trade_no":"wx2018010412941","result_code":"SUCCESS","return_code":"SUCCESS","sign":"CA4FD31BCFB736BB39331AE7478DD796","time_end":"20180104113245","total_fee":"43320","trade_type":"JSAPI","transaction_id":"4200000006201801047784717309"}
+[2018-01-04 11:32:45][debug] query:{"appid":"wx9d6c163b0a7af56f","attach":"2018010412941368","bank_type":"CCB_DEBIT","cash_fee":"43320","fee_type":"CNY","is_subscribe":"N","mch_id":"1480073482","nonce_str":"h80hbScdPEorQnmO","openid":"ozp1hv5JuDaKJBSzHQHtJrPH6Xh8","out_trade_no":"wx2018010412941","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"5CD8A3B4065FFAE71FACA4AC0967E8D1","time_end":"20180104113245","total_fee":"43320","trade_state":"SUCCESS","trade_type":"JSAPI","transaction_id":"4200000006201801047784717309"}
+[2018-01-04 11:33:01][debug] begin notify
+[2018-01-04 14:38:19][debug] begin notify
+[2018-01-04 18:33:44][debug] begin notify
+[2018-01-04 19:43:28][debug] begin notify
